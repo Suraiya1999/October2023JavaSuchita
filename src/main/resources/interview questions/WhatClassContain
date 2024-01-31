@@ -1,0 +1,26 @@
+what is class body=={}
+
+What is class contains==5 things
+1.variable
+2.constructot
+3.method
+4.instance block
+5.static block
+
+a class has two types of area
+ static
+ instance
+ 
+ class area
+ each method= part of the class
+ out side of the method ==part of the class
+ class has two type area == instance and static
+ by default== class is instance
+ static declare are ==is static area
+ 
+ what is static==something common 
+                 does not change very often
+                 easily access   
+                 
+ what is instance== change value often time
+                 

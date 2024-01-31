@@ -1,0 +1,24 @@
+Step-
+File-->new--maven project--create--next--
+ Step-2
+ group id==package name such as==October2023BasicJavaSuchita or com.facebook
+ artifact id--project name such as==October2023BasicJavaSuchita or facebook
+ step-3--click finish
+ 
+ What is group id?
+ What is artifact id?
+ 
+ what is maven defauld java version==1.5
+ How to update java version in maven
+ what is xmlns== maven system configuration
+ what is modelVerson== maven verson
+ what is java version
+ what version of java do use==1,1.1, 1.2,1.5=5=lts.. 1.8=8=Lts,9,10,11,13,15,17,19=Lts,21
+ what is LTS==Long time Support/good version
+ what version of java do use
+ 
+ what maven stand for
+ what is maven=
+ what maven does
+ what is pom.xml
+ 
